@@ -7,7 +7,7 @@ Simple Python Script pulling quotes from the internet and then printing it out w
 
 Example
 =======
-
+<pre>
  _________________________________________ 
 / not that I'm so smart, it's just that I \
 \ stay with problems longer.              /
@@ -21,4 +21,17 @@ Example
      (|     | )
     /'\_   _/`\
     \___)=(___/
+
+</pre>
+
+
+
+
+
+
+
+
+
+
+
 
